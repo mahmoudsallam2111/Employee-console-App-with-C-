@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>employee_task</name>
+    </assembly>
+    <members>
+        <member name="M:day4_employee_struct.skill.#ctor(System.String,System.Int32,System.Int32)">
+            <summary>
+            the is a summary
+            </summary>
+            <param name="skillname"> the skillname </param>
+            <param name="skilllevel"> the skill level</param>
+            <param name="skillpoints"> the skill points</param>
+        </member>
+    </members>
+</doc>

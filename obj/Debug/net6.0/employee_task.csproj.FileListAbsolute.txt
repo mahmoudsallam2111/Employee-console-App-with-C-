@@ -1,0 +1,32 @@
+D:\c#\Day5\3point task\employee_task\bin\Debug\net6.0\employee_task.exe
+D:\c#\Day5\3point task\employee_task\bin\Debug\net6.0\employee_task.deps.json
+D:\c#\Day5\3point task\employee_task\bin\Debug\net6.0\employee_task.runtimeconfig.json
+D:\c#\Day5\3point task\employee_task\bin\Debug\net6.0\employee_task.dll
+D:\c#\Day5\3point task\employee_task\bin\Debug\net6.0\employee_task.pdb
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\employee_task.csproj.AssemblyReference.cache
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\employee_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\employee_task.AssemblyInfoInputs.cache
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\employee_task.AssemblyInfo.cs
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\employee_task.csproj.CoreCompileInputs.cache
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\employee_task.dll
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\refint\employee_task.dll
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\employee_task.pdb
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\employee_task.genruntimeconfig.cache
+D:\c#\Day5\3point task\employee_task\obj\Debug\net6.0\ref\employee_task.dll
+D:\c#\Day5\day5_lab\employee_task\bin\Debug\net6.0\employee_task.exe
+D:\c#\Day5\day5_lab\employee_task\bin\Debug\net6.0\employee_task.deps.json
+D:\c#\Day5\day5_lab\employee_task\bin\Debug\net6.0\employee_task.runtimeconfig.json
+D:\c#\Day5\day5_lab\employee_task\bin\Debug\net6.0\employee_task.dll
+D:\c#\Day5\day5_lab\employee_task\bin\Debug\net6.0\employee_task.pdb
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.csproj.AssemblyReference.cache
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.AssemblyInfoInputs.cache
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.AssemblyInfo.cs
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.csproj.CoreCompileInputs.cache
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.dll
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\refint\employee_task.dll
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.pdb
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.genruntimeconfig.cache
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\ref\employee_task.dll
+D:\c#\Day5\day5_lab\employee_task\bin\Debug\net6.0\employee_task.xml
+D:\c#\Day5\day5_lab\employee_task\obj\Debug\net6.0\employee_task.xml
